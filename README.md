@@ -3,7 +3,7 @@
 
 Submitted by: **Mark Davletov**
 
-About this web app: **App description here**
+About this web app: **It's a unique app that allows its users to filter out the music eents and festivals based on the songs genre and also to sort them based on the ticket price**
 
 Time spent: **2** hours
 
